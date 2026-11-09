@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Pop Out Tab to New Window",
-  "version": "1.3",
+  "name": "PopTab",
+  "version": "1.0",
   "description": "Moves the current tab into its own new window, like dragging it out, with no reload.",
   "permissions": ["tabs", "contextMenus"],
   "background": { "service_worker": "background.js" },
